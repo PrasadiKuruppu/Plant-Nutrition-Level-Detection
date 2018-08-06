@@ -2,11 +2,11 @@
 
 Project Description: 
 
-	Nitrogen(N),Phosphorus(P) and Potassium(K) are the primaty nitrients 
+	Nitrogen(N),Phosphorus(P) and Potassium(K) are the primary nitrients 
 for the plants. In this code I have used color of the leaf to detect the type of low 
-neutrition level.Nitrogen and Potassium have yellow color and Phosphorus has 
-a purple color when the leaves are suffering from low neutrition level 
-of the respective neutrients.
+nutrition level.Nitrogen and Potassium have yellow color and Phosphorus has 
+a purple color when the leaves are suffering from low nutrition level 
+of the respective nutrients.
 
 	I have provided all the requiered details of the code in each line of the code. 
 In the code first I have identified the difference between yellow and purple 
