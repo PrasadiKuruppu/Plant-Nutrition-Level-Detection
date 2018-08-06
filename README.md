@@ -26,7 +26,6 @@ About Inculded Files:
 	3.Images
 	
 		(i)  Low Nitrogen Level Leaf Images: N 1,2
-		
 		(ii) Low Potassium Level Leaf Images: K 1,2,3
 		(iii)Low Phosphorus Level Leaf Images: P 1,2,3,4,5
 		(iv) Healthy Leaves: H 1,2,3,4,5,6  
@@ -41,8 +40,8 @@ Test the Code:
 	Input--> image(Close Images are requied. Otherwise all leaves will get deleted 
 			when we apply grabcut in the code)
 	Output--> 1.Average of Hue value
-          	  2.Percentage of the leaf having low neutrition level(different color part)
-          	  3.Type of low neutrition(Nitrogen,Potassium,Phosphorus)
+          	  2.Percentage of the leaf having low nutrition level(different color part)
+          	  3.Type of low nutrition(Nitrogen,Potassium,Phosphorus)
           	  4.Time spent to run the code
 
 	* If the input is a healthy leaf the output will say it is healthy.
