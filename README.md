@@ -1,29 +1,32 @@
 # Plant-Nutrition-Level-Detection
- 
-NEUTRITION LEVEL DETECTION
 
 Project Description: 
 
-'''Nitrogen(N),Phosphorus(P) and Potassium(K) are the primaty nitrients 
+	Nitrogen(N),Phosphorus(P) and Potassium(K) are the primaty nitrients 
 for the plants. In this code I have used color of the leaf to detect the type of low 
 neutrition level.Nitrogen and Potassium have yellow color and Phosphorus has 
 a purple color when the leaves are suffering from low neutrition level 
-of the respective neutrients.'''
+of the respective neutrients.
 
-'''I have provided all the requiered details of the code in each line of the code. 
+	I have provided all the requiered details of the code in each line of the code. 
 In the code first I have identified the difference between yellow and purple 
 color using HSV color model. If the leaf is having purple color then the type will 
 get identified as Phosphorus. I have used percentage of yellow colort part of the 
 leaf to identify the difference between the types Nitrogen and Potassium. Because 
 for low Potassium level the edges of the leaf get the yellow color and then spread 
 to the middle areas of the leaf. But for low Nitrogen level whole leaf become into 
-yellow color.'''
+yellow color.
 
 About Inculded Files:
+
 	1.NUTRITION_CODE
+	
 	2.NUTRITION_GUI
+	
 	3.Images
+	
 		(i)  Low Nitrogen Level Leaf Images: N 1,2
+		
 		(ii) Low Potassium Level Leaf Images: K 1,2,3
 		(iii)Low Phosphorus Level Leaf Images: P 1,2,3,4,5
 		(iv) Healthy Leaves: H 1,2,3,4,5,6  
