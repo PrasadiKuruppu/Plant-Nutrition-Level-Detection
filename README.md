@@ -37,6 +37,7 @@ Note: Make sure you keep all the images in the same folder which you save the co
       lines of the code.
 
 Test the Code:
+
 	Input--> image(Close Images are requied. Otherwise all leaves will get deleted 
 			when we apply grabcut in the code)
 	Output--> 1.Average of Hue value
