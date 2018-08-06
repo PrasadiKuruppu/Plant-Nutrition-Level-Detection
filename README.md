@@ -33,7 +33,7 @@ About Inculded Files:
 		(v)  Background for Python GUI: GUI_Background
 
 Note: Make sure you keep all the images in the same folder which you save the code. 
-      Otherwise you have to give extension for the images explicitly in the respective 
+      Otherwise you have to give extensions for the images explicitly in the respective 
       lines of the code.
 
 Test the Code:
