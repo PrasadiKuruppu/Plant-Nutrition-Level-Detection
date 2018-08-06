@@ -2,7 +2,7 @@
 
 Project Description: 
 
-	Nitrogen(N),Phosphorus(P) and Potassium(K) are the primary nitrients 
+	Nitrogen(N),Phosphorus(P) and Potassium(K) are the primary nutrients 
 for the plants. In this code I have used color of the leaf to detect the type of low 
 nutrition level.Nitrogen and Potassium have yellow color and Phosphorus has 
 a purple color when the leaves are suffering from low nutrition level 
