@@ -9,6 +9,7 @@ for the plants. In this code I have used color of the leaf to detect the type of
 neutrition level.Nitrogen and Potassium have yellow color and Phosphorus has 
 a purple color when the leaves are suffering from low neutrition level 
 of the respective neutrients.'''
+
 '''I have provided all the requiered details of the code in each line of the code. 
 In the code first I have identified the difference between yellow and purple 
 color using HSV color model. If the leaf is having purple color then the type will 
